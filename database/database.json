@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": "asdio1u209as8d9asd8",
+      "title": "Product_1",
+      "description": "Description_1"
+    },
+    {
+      "id": "9521e7ab-a165-4381-97c7-316bc88e18a4",
+      "title": "Product_2",
+      "description": "Description_2"
+    }
+  ]
+}
